@@ -27,7 +27,7 @@ website:
         href: https://github.com/Nils-Swindell/Moves-UP-web-page2
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Nils Swindell"
+    left: "&copy; Copyright 2025, Nils Swindell"
 
 format:
   html:
@@ -36,3 +36,8 @@ format:
     css: styles.css
 
 editor: source
+execute:
+  echo: true
+  warning: false
+  error: false
+  
