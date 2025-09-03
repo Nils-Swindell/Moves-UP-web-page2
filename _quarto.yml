@@ -1,14 +1,25 @@
 project:
   type: website
   output-dir: docs
-  
-website:
-  title: "The Moves-UP project"
+
+website: 
+  title: "Moves-UP"
   navbar:
+    logo: img/MUlogo.png    # <-- Add your logo path here
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: About.qmd
+        text: About
+      - href: Takingpart.qmd
+        text: Taking part
+      - href: Research.qmd
+        text: Research
+      - href: Impact.qmd
+        text: Impact
+      - href: Contact.qmd
+        text: Contact
+     
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -20,8 +31,8 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: Minty
     toc: true
+    css: styles.css
 
 editor: source
-

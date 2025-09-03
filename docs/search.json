@@ -1,23 +1,72 @@
 [
   {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About",
+    "section": "",
+    "text": "Identify children with motor difficulties\nSupport children with motor difficulties"
+  },
+  {
+    "objectID": "About.html#our-aim",
+    "href": "About.html#our-aim",
+    "title": "About",
+    "section": "",
+    "text": "Identify children with motor difficulties\nSupport children with motor difficulties"
+  },
+  {
+    "objectID": "About.html#the-team",
+    "href": "About.html#the-team",
+    "title": "About",
+    "section": "The Team",
+    "text": "The Team\n\nGareth Stratton\nNils Swindell"
+  },
+  {
+    "objectID": "About.html#funding",
+    "href": "About.html#funding",
+    "title": "About",
+    "section": "Funding",
+    "text": "Funding\nThis research is funded by: - The Waterloo Foundation - EPSRC Impact Acceleration Account - Swansea University"
+  },
+  {
+    "objectID": "Takingpart.html",
+    "href": "Takingpart.html",
+    "title": "Taking part",
+    "section": "",
+    "text": "Identify children with motor difficulties"
+  },
+  {
+    "objectID": "Takingpart.html#taking-part-as-a-school",
+    "href": "Takingpart.html#taking-part-as-a-school",
+    "title": "Taking part",
+    "section": "",
+    "text": "Identify children with motor difficulties"
+  },
+  {
+    "objectID": "Takingpart.html#taking-part-as-a-child",
+    "href": "Takingpart.html#taking-part-as-a-child",
+    "title": "Taking part",
+    "section": "Taking part as a child",
+    "text": "Taking part as a child\nWhat to expect if you decide to take part in the study"
+  },
+  {
+    "objectID": "Takingpart.html#incentives",
+    "href": "Takingpart.html#incentives",
+    "title": "Taking part",
+    "section": "Incentives",
+    "text": "Incentives\n\nsomething else"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Background\nUsing technoligy to measure movement and movement quality\n\n\n\n\nPapers/abstarcts/presentations"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Welcome to Moves-UP",
     "section": "",
-    "text": "Thanks for checking out my web site!"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "text": "Moves-UP Home\n\n\n\nMoves-UP aims to support children to develop their motor skills as a key part of their overall learning and development.\nMotor difficulties are extremely common among school aged children and can have a detrimental impact on academic performance, social interactions, and overall health and well-being.\nWe work with schools, health care practitioners and families to provide evidence-informed interventions to support children with motor difficulties.\nThanks for checking out our web site!"
   }
 ]

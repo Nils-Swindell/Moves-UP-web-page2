@@ -1,0 +1,14 @@
+/* Target the Quarto navbar logo */
+.navbar-brand img {
+  height: 200px;     /* Set desired logo height */
+  width: auto;      /* Keeps aspect ratio */
+  margin-right: 16px; /* Space to the right */
+  /* margin-left: 0;  You can adjust this if needed */
+  vertical-align: middle; /* Aligns logo vertically */
+}
+
+/* Optional: Center the navbar content */
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}

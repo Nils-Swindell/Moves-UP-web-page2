@@ -1,19 +1,20 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "Welcome to Moves-UP"
+
 ---
 
-:::{#me}
-
-## Goals
-
-## Education
-
-## Experience
-
+::: {.text-center}
+![Moves-UP Home](img/SFDC.png){width=100%}
 :::
 
-Thanks for checking out my web site!
+Moves-UP aims to support children to develop their motor skills as a key part of their overall learning and development.
+
+Motor difficulties are extremely common among school aged children and can have a detrimental impact on academic performance, social interactions, and overall health and well-being. 
+
+We work with schools, health care practitioners and families to provide evidence-informed interventions to support children with motor difficulties.
+
+Thanks for checking out our web site!
+
+
+
+
