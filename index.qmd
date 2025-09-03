@@ -12,7 +12,7 @@ Motor difficulties are extremely common among school aged children and can have 
 
 We work with schools, health care practitioners and families to provide evidence-informed interventions to support children with motor difficulties.
 
-::: {style="margin-bottom: 120px;"}
+::: {style="margin-bottom: 150px;"}
 :::
 
 ::::: {.grid gap="5"}
@@ -21,11 +21,11 @@ We work with schools, health care practitioners and families to provide evidence
 :::
 
 ::: g-col-6
-![](img/logo%20center.jpeg){width="150"}
+![](img/MUlogo.png){width="320"}
 :::
 :::::
 
-::: {style="margin-bottom: 80px;"}
+::: {style="margin-bottom: 50px;"}
 :::
 
 Thank you for checking out our website

@@ -5,7 +5,7 @@ project:
 website: 
   title: "Moves-UP"
   navbar:
-    logo: img/MUlogo.png    # <-- Add your logo path here
+    # logo: img/logo center.jpeg    # <-- Add your logo path here
     left:
       - href: index.qmd
         text: Home
