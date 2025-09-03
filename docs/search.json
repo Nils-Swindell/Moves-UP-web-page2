@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "About.html",
-    "href": "About.html",
-    "title": "About",
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Identify children with motor difficulties\nSupport children with motor difficulties"
+    "text": "Resource pack for teachers and parents DCD resource pack\n\n\nWatch me do it- video demonstrations recorded from a first-person viewpoint Watch me do it library"
   },
   {
-    "objectID": "About.html#our-aim",
-    "href": "About.html#our-aim",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Moves-UP",
     "section": "",
-    "text": "Identify children with motor difficulties\nSupport children with motor difficulties"
+    "text": "Moves-UP aims to support children to develop their motor skills as a key part of their overall learning and development.\nMotor difficulties are extremely common among school aged children and can have a detrimental impact on academic performance, social interactions, and overall health and well-being.\nWe work with schools, health care practitioners and families to provide evidence-informed interventions to support children with motor difficulties.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThank you for checking out our website"
   },
   {
-    "objectID": "About.html#the-team",
-    "href": "About.html#the-team",
-    "title": "About",
-    "section": "The Team",
-    "text": "The Team\n\nGareth Stratton\nNils Swindell"
-  },
-  {
-    "objectID": "About.html#funding",
-    "href": "About.html#funding",
-    "title": "About",
-    "section": "Funding",
-    "text": "Funding\nThis research is funded by: - The Waterloo Foundation - EPSRC Impact Acceleration Account - Swansea University"
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Background\nUsing technoligy to measure movement and movement quality\n\n\n\n\nPapers/abstarcts/presentations"
   },
   {
     "objectID": "Takingpart.html",
@@ -56,17 +49,31 @@
     "text": "Incentives\n\nsomething else"
   },
   {
-    "objectID": "Research.html",
-    "href": "Research.html",
-    "title": "Research",
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About",
     "section": "",
-    "text": "Background\nUsing technoligy to measure movement and movement quality\n\n\n\n\nPapers/abstarcts/presentations"
+    "text": "Identify children with motor difficulties\nSupport children with motor difficulties"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to Moves-UP",
+    "objectID": "About.html#our-aim",
+    "href": "About.html#our-aim",
+    "title": "About",
     "section": "",
-    "text": "Moves-UP Home\n\n\n\nMoves-UP aims to support children to develop their motor skills as a key part of their overall learning and development.\nMotor difficulties are extremely common among school aged children and can have a detrimental impact on academic performance, social interactions, and overall health and well-being.\nWe work with schools, health care practitioners and families to provide evidence-informed interventions to support children with motor difficulties.\nThanks for checking out our web site!"
+    "text": "Identify children with motor difficulties\nSupport children with motor difficulties"
+  },
+  {
+    "objectID": "About.html#the-team",
+    "href": "About.html#the-team",
+    "title": "About",
+    "section": "The Team",
+    "text": "The Team\n\nGareth Stratton\nNils Swindell"
+  },
+  {
+    "objectID": "About.html#funding",
+    "href": "About.html#funding",
+    "title": "About",
+    "section": "Funding",
+    "text": "Funding\nThis research is funded by: - The Waterloo Foundation - EPSRC Impact Acceleration Account - Swansea University"
   }
 ]

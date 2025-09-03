@@ -4,17 +4,14 @@ title: "About"
 
 ## Our aim
 
-- Identify children with motor difficulties 
-- Support children with motor difficulties
+-   Identify children with motor difficulties
+-   Support children with motor difficulties
 
 ## The Team
 
-- Gareth Stratton
-- Nils Swindell 
+-   Gareth Stratton
+-   Nils Swindell
 
 ## Funding
 
-This research is funded by:
-  - The Waterloo Foundation
-  - EPSRC Impact Acceleration Account
-  - Swansea University
+This research is funded by: - The Waterloo Foundation - EPSRC Impact Acceleration Account - Swansea University

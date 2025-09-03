@@ -1,20 +1,31 @@
 ---
 title: "Welcome to Moves-UP"
-
 ---
 
-::: {.text-center}
-![Moves-UP Home](img/SFDC.png){width=100%}
+::: text-center
+![](img/SFDC.png){width="200%"}
 :::
 
 Moves-UP aims to support children to develop their motor skills as a key part of their overall learning and development.
 
-Motor difficulties are extremely common among school aged children and can have a detrimental impact on academic performance, social interactions, and overall health and well-being. 
+Motor difficulties are extremely common among school aged children and can have a detrimental impact on academic performance, social interactions, and overall health and well-being.
 
 We work with schools, health care practitioners and families to provide evidence-informed interventions to support children with motor difficulties.
 
-Thanks for checking out our web site!
+::: {style="margin-bottom: 120px;"}
+:::
 
+::::: {.grid gap="5"}
+::: g-col-6
+![](img/NEW%20waterloo_foundation_logo_cmyk%20(002).jpg){width="300"}
+:::
 
+::: g-col-6
+![](img/logo%20center.jpeg){width="150"}
+:::
+:::::
 
+::: {style="margin-bottom: 80px;"}
+:::
 
+Thank you for checking out our website
